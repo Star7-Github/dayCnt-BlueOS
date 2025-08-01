@@ -2,8 +2,9 @@
 适用于BlueOS手表的倒数日应用
 ## 倒数日
 <div>
- <img src="/icon/800.png" width="100">
+ <img src="/icon/800.png" width="70">
 </div>
+
 ## 适配说明(理论上)
  - 适用于 `BlueOS 1.0` 及以上系统
  - 完美适配 `vivo WATCH 3`
@@ -11,11 +12,11 @@
  - 输入法需要联网使用
 ## 运行图片
 <div>
- <img src="/icon/800.png" width="150">
  <img src="/capture/newEvt.png" width="150">
  <img src="/capture/evts.png" width="150">
  <img src="/capture/del.png" width="150">
 </div>
+
 ## 使用说明
 ### 首页
  - **倒数日列表项左滑**
