@@ -6,6 +6,7 @@
  - `vivo WATCH GT` 可能存在部分界面显示异常的问题
 ## 运行图片
 <div>
+ <img src="/icon/800.png" width="150">
  <img src="/capture/newEvt.png" width="150">
  <img src="/capture/evts.png" width="150">
  <img src="/capture/del.png" width="150">
